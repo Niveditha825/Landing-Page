@@ -1,0 +1,38 @@
+body{
+
+ background-color: grey;
+ text-align:center;
+ border: 48px solid pink;
+
+}
+
+h1{
+ color:#2f3b1g;
+letter-spacing:3px;
+font-size:45px;
+padding-top:2%;
+
+}
+
+
+h2{
+ color:white;
+}
+
+p{
+color:#2ec486;
+padding-left:10%;
+padding-right:10%;
+}
+
+#register{
+ background-color:00f2c2;
+ height:50px;
+ width:150px;
+ border-radius:20px;
+
+}
+div{
+background-color:yellow;
+
+}
